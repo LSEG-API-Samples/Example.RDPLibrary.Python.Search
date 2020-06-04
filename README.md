@@ -8,4 +8,5 @@ Search API:
 Featured APIs:
 •	Eikon
 •	Refinitiv Workspace
+• Refinitiv Data Platform (RDP)
  
