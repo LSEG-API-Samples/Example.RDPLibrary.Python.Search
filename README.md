@@ -1,2 +1,11 @@
 # Example.RDPAPI.Python.Search
-Generating Actionable Secutiry Lists using the Search API in Refinitiv Data Platform
+Search API:
+•	Generating Actionable Security Lists  
+•	Using Queried & Structured Searches
+•	Harnessing Metadata 
+•	Leveraging Useful Search Functions 
+ 
+Featured APIs:
+•	Eikon
+•	Refinitiv Workspace
+ 
