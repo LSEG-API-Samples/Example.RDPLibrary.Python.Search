@@ -1,4 +1,4 @@
-# Example.RDPAPI.Python.Search
+# Example.RDPLibrary.Python.Search
 Search API:
 •	Generating Actionable Security Lists  
 •	Using Queried & Structured Searches
